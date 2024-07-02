@@ -6,7 +6,7 @@
     <title>Document</title>
 </head>
 <body>
-<!-- <h1>My first PHP page</h1> -->
+<h1>My first PHP page</h1>
     <?php
         echo"<h1> test <h1>";
         echo "Hello World!<br>";
