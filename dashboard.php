@@ -17,13 +17,22 @@
             <div class="collapse navbar-collapse" id="navbarNav">
                 <ul class="navbar-nav ms-auto">
                     <li class="nav-item">
-                        <a class="nav-link" href="#" onclick="document.getElementById('contentFrame').src='home_content.html';">Home</a>
+                        <a class="nav-link" href="#" onclick="document.getElementById('contentFrame').src='latihan1.php';">Latihan 1</a>
                     </li>
                     <li class="nav-item">
-                        <a class="nav-link" href="#" onclick="document.getElementById('contentFrame').src='features_content.html';">Features</a>
+                        <a class="nav-link" href="#" onclick="document.getElementById('contentFrame').src='latihan2.php';">Latihan 2</a>
                     </li>
                     <li class="nav-item">
-                        <a class="nav-link" href="#" onclick="document.getElementById('contentFrame').src='pricing_content.html';">Pricing</a>
+                        <a class="nav-link" href="#" onclick="document.getElementById('contentFrame').src='forminput.php';">Form Input</a>
+                    </li>
+                    <li class="nav-item">
+                        <a class="nav-link" href="#" onclick="document.getElementById('contentFrame').src='formmahasiswa.php';">Form Mahasiswa</a>
+                    </li>
+                    <li class="nav-item">
+                        <a class="nav-link" href="#" onclick="document.getElementById('contentFrame').src='latihanform.php';">Latihan Form</a>
+                    </li>
+                    <li class="nav-item">
+                        <a class="nav-link" href="#" onclick="document.getElementById('contentFrame').src='tesinput.php';">Quiz</a>
                     </li>
                 </ul>
             </div>
